@@ -14,7 +14,6 @@
 - **SQLite3** (Lightweight embedded database)  
 - **HTML/CSS** for frontend design  
 
----
 
 ---
 📂 Project Structure
@@ -24,7 +23,6 @@
 - ├── detail.php              # About Myanmar
 - ├── sample.db               # SQLite database         
 - └── README.md               # Project description
----
 
 ---
 
@@ -34,7 +32,7 @@
 2. Clone this repository:
    ```bash
    git clone https://github.com/your-username/welcome-to-myanmar.git
-
+   ```
 3.Navigate to the project folder:
   ```bash
   cd welcome-to-myanmar
