@@ -29,7 +29,29 @@ If you're building a full step-by-step guide, here's how it fits within the full
 ## 🚀 How to Run
 
 1. Make sure PHP is installed on your machine.
+- Edit php.ini to Enable SQLite Extensions
+- Open php.ini in a text editor (Notepad or Notepad++ is fine).
+- Press Ctrl + F and search for:
+  ```bash
+   ;extension=pdo_sqlite
+  ```
+- Remove the semicolon ; to enable it:
+  ```bash
+   extension=pdo_sqlite
+  ```
+- Also find and uncomment:
+ ```bash
+  extension=sqlite3
+```
+- So those two lines should look like:
+  ```bash
+   extension=pdo_sqlite
+   extension=sqlite3
+  ```
+- Save the file and close the editor.
+---
 
+  
 2. Clone this repository:
    ```bash
    git clone https://github.com/Boelutt/Welcome-To-Myanmar.git
