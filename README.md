@@ -38,15 +38,15 @@
 3.Navigate to the project folder:
   ```bash
   cd welcome-to-myanmar
-
+   ```
 4.Start a local PHP server:
  ```bash
   php -S localhost:8000
-
+  ```
 5.Open your browser and go to 
   ```bash
   http://localhost:8000
-
+  ```
 📌 Purpose
 This project was created for educational purposes and to showcase basic usage of PHP + SQLite3 in building small, database-driven web applications.
 
