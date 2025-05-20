@@ -42,7 +42,7 @@ If you're building a full step-by-step guide, here's how it fits within the full
 - Also find and uncomment:
   ```bash
   extension=sqlite3
- ```
+  ```
 - So those two lines should look like:
   ```bash
    extension=pdo_sqlite
