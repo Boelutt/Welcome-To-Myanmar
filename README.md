@@ -52,26 +52,26 @@ If you're building a full step-by-step guide, here's how it fits within the full
 ---
 
   
-2. Clone this repository:
-   ```bash
-   git clone https://github.com/Boelutt/Welcome-To-Myanmar.git
-   ```
+2.Clone this repository:
+  ```bash
+  git clone https://github.com/Boelutt/Welcome-To-Myanmar.git
+  ```
 3.Navigate to the project folder:
-   ```bash
-    cd Welcome-To-Myanmar
-   ```
+  ```bash
+  cd Welcome-To-Myanmar
+  ```
 4.Start a local PHP server:
-   ```bash
-    php -S localhost:8000
-   ```
+  ```bash
+  php -S localhost:8000
+  ```
 **or**
-   ```
- "C:\php\php.exe" -S localhost:8000
-   ```
+  ```
+  "C:\php\php.exe" -S localhost:8000
+  ```
 5.Open your browser and go to 
-   ```bash
-    http://localhost:8000
-   ```
+  ```bash
+  http://localhost:8000
+  ```
 ---
 📌 Purpose
 - This project was created for educational purposes and to showcase basic usage of PHP + SQLite3 in building small, database-driven web applications.
