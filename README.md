@@ -64,7 +64,7 @@ If you're building a full step-by-step guide, here's how it fits within the full
  ```bash
   php -S localhost:8000
   ```
-**OR**
+**or**
  ```
  "C:\php\php.exe" -S localhost:8000
  ```
