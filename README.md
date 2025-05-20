@@ -34,13 +34,13 @@
 2. Clone this repository:
    ```bash
    git clone https://github.com/your-username/welcome-to-myanmar.git
-
-
-
+---
 3.Navigate to the project folder:
+ ```bash
 cd welcome-to-myanmar
-
+---
 4.Start a local PHP server:
+ ```bash
 php -S localhost:8000
 
 5.Open your browser and go to http://localhost:8000
