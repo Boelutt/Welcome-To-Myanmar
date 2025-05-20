@@ -29,14 +29,13 @@
 
 If you're building a full step-by-step guide, here's how it fits within the full context:
 
-
-### 🚀 How to Run
+🚀 How to Run
 
 1. Make sure PHP is installed on your machine.
 
 2. Clone this repository:
    ```bash
-   https://github.com/Boelutt/Welcome-To-Myanmar.git
+  git clone https://github.com/Boelutt/Welcome-To-Myanmar.git
    ```
 3.Navigate to the project folder:
   ```bash
