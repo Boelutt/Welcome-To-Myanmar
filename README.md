@@ -26,8 +26,14 @@
 
 ---
 
+
+If you're building a full step-by-step guide, here's how it fits within the full context:
+
+```markdown
 ## 🚀 How to Run
+
 1. Make sure PHP is installed on your machine.
+
 2. Clone this repository:
    ```bash
    https://github.com/Boelutt/Welcome-To-Myanmar.git
