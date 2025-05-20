@@ -46,7 +46,7 @@
   http://localhost:8000
   ```
 ---
-#📌 Purpose
+📌 Purpose
 - This project was created for educational purposes and to showcase basic usage of PHP + SQLite3 in building small, database-driven web applications.
 
 
