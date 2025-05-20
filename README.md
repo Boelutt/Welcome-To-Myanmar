@@ -31,7 +31,7 @@
 1. Make sure PHP is installed on your machine.
 2. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/welcome-to-myanmar.git
+   git clone https://github.com/Boelutt/welcome-to-myanmar.git
    ```
 3.Navigate to the project folder:
   ```bash
