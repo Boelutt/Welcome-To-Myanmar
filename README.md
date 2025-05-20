@@ -2,13 +2,20 @@
 ![image](https://github.com/Boelutt/Welcome-To-Myanmar/blob/master/welcomeToMyanmar.png)
 ![image](https://github.com/Boelutt/Welcome-To-Myanmar/blob/master/myanmar.png)
 
- **Welcome to Myanmar**
-Welcome to Myanmar is a simple web application built with PHP and SQLite3 that introduces users to the beauty, culture, and key facts about Myanmar. This project serves as a basic example of how to create a dynamic website using a lightweight database.
+# 🇲🇲 Welcome to Myanmar
 
-🛠️ Technologies Used
-PHP (Core scripting language)
-SQLite3 (Lightweight embedded database)
-HTML/CSS for frontend design
+**Welcome to Myanmar** is a simple web application built with **PHP** and **SQLite3** that introduces users to the beauty, culture, and key facts about Myanmar. This project serves as a basic example of how to create a dynamic website using a lightweight database.
+
+---
+
+## 🛠️ Technologies Used
+
+- **PHP** (Core scripting language)  
+- **SQLite3** (Lightweight embedded database)  
+- **HTML/CSS** for frontend design  
+
+---
+
 
 📂 Project Structure
 /welcome-to-myanmar
