@@ -16,15 +16,15 @@
 
 ---
 
-
+---
 📂 Project Structure
-/welcome-to-myanmar
-│
-├── index.php               # Main page
-├── detail.php              # About Myanmar
-├── sample.db               # SQLite database         
-└── README.md               # Project description
-
+- /welcome-to-myanmar
+- │
+- ├── index.php               # Main page
+- ├── detail.php              # About Myanmar
+- ├── sample.db               # SQLite database         
+- └── README.md               # Project description
+---
 🚀 How to Run
 1.Make sure PHP is installed on your machine.
 
