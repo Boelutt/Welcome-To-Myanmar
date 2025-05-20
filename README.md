@@ -25,12 +25,17 @@
 - ├── sample.db               # SQLite database         
 - └── README.md               # Project description
 ---
-🚀 How to Run
-1.Make sure PHP is installed on your machine.
 
-2.Clone this repository:
+---
 
-git clone https://github.com/your-username/welcome-to-myanmar.git
+## 🚀 How to Run
+
+1. Make sure PHP is installed on your machine.
+2. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/welcome-to-myanmar.git
+
+
 
 3.Navigate to the project folder:
 cd welcome-to-myanmar
