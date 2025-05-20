@@ -34,9 +34,9 @@
 2. Clone this repository:
    ```bash
    git clone https://github.com/your-username/welcome-to-myanmar.git
----
+
 3.Navigate to the project folder:
- ```bash
+ '''bash
 cd welcome-to-myanmar
 ---
 4.Start a local PHP server:
