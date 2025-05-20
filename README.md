@@ -2,5 +2,41 @@
 ![image](https://github.com/Boelutt/Welcome-To-Myanmar/blob/master/welcomeToMyanmar.png)
 ![image](https://github.com/Boelutt/Welcome-To-Myanmar/blob/master/myanmar.png)
 
-Using Php and Sqlite3
+🇲🇲 Welcome to Myanmar
+Welcome to Myanmar is a simple web application built with PHP and SQLite3 that introduces users to the beauty, culture, and key facts about Myanmar. This project serves as a basic example of how to create a dynamic website using a lightweight database.
+
+🛠️ Technologies Used
+PHP (Core scripting language)
+
+SQLite3 (Lightweight embedded database)
+
+HTML/CSS for frontend design
+
+
+/welcome-to-myanmar
+│
+├── index.php               # Main page
+├── detail.php              # About Myanmar
+├── sample.db               # SQLite database         
+└── README.md               # Project description
+
+🚀 How to Run
+1.Make sure PHP is installed on your machine.
+
+2.Clone this repository:
+
+git clone https://github.com/your-username/welcome-to-myanmar.git
+
+3.Navigate to the project folder:
+cd welcome-to-myanmar
+
+4.Start a local PHP server:
+php -S localhost:8000
+
+5.Open your browser and go to http://localhost:8000
+
+📌 Purpose
+This project was created for educational purposes and to showcase basic usage of PHP + SQLite3 in building small, database-driven web applications.
+
+
 
