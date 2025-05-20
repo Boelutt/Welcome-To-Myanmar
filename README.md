@@ -7,12 +7,10 @@ Welcome to Myanmar is a simple web application built with PHP and SQLite3 that i
 
 🛠️ Technologies Used
 PHP (Core scripting language)
-
 SQLite3 (Lightweight embedded database)
-
 HTML/CSS for frontend design
 
-
+📂 Project Structure
 /welcome-to-myanmar
 │
 ├── index.php               # Main page
