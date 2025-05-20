@@ -36,12 +36,16 @@ If you're building a full step-by-step guide, here's how it fits within the full
    ```
 3.Navigate to the project folder:
   ```bash
-  cd welcome-to-myanmar
+  cd Welcome-To-Myanmar
    ```
 4.Start a local PHP server:
  ```bash
   php -S localhost:8000
   ```
+**OR**
+ ```
+ "C:\php\php.exe" -S localhost:8000
+ ```
 5.Open your browser and go to 
   ```bash
   http://localhost:8000
