@@ -2,7 +2,7 @@
 ![image](https://github.com/Boelutt/Welcome-To-Myanmar/blob/master/welcomeToMyanmar.png)
 ![image](https://github.com/Boelutt/Welcome-To-Myanmar/blob/master/myanmar.png)
 
-🇲🇲 Welcome to Myanmar
+ **Welcome to Myanmar**
 Welcome to Myanmar is a simple web application built with PHP and SQLite3 that introduces users to the beauty, culture, and key facts about Myanmar. This project serves as a basic example of how to create a dynamic website using a lightweight database.
 
 🛠️ Technologies Used
