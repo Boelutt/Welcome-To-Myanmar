@@ -29,8 +29,8 @@
 
 If you're building a full step-by-step guide, here's how it fits within the full context:
 
-```markdown
-## 🚀 How to Run
+
+### 🚀 How to Run
 
 1. Make sure PHP is installed on your machine.
 
