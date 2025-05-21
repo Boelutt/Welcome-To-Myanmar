@@ -29,6 +29,10 @@ If you're building a full step-by-step guide, here's how it fits within the full
 ## 🚀 How to Run
 
 1. Make sure PHP is installed on your machine.
+   Download php link:
+   ```bash
+   https://www.php.net/downloads.php
+   ```
 - Edit php.ini to Enable SQLite Extensions
 - Open php.ini in a text editor (Notepad or Notepad++ is fine).
 - Press Ctrl + F and search for:
