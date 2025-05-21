@@ -37,7 +37,7 @@ If you're building a full step-by-step guide, here's how it fits within the full
 - Open php.ini in a text editor (Notepad or Notepad++ is fine).
 - Press Ctrl + F and search for:
   ```bash
-   ;extension=pdo_sqlite
+  ;extension=pdo_sqlite
   ```
 - Remove the semicolon ; to enable it:
   ```bash
